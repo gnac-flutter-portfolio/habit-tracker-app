@@ -1,6 +1,6 @@
 # Flutter Habit Tracker App UI + Backend
 ### Flutter 3.14.0-0.2.pre Null Safety
-Beautiful Habit Tracker App with support for both dark and light modes. Created by Martin Gogołowicz. <br/>You can find Features and dependencies below!
+Beautiful Habit Tracker App with support for both dark and light modes. Created by Serge Gnacadja. <br/>You can find Features and dependencies below!
 ## How the app looks:
 
 ## Features and dependencies:
@@ -39,5 +39,5 @@ Beautiful Habit Tracker App with support for both dark and light modes. Created 
 Feel free to open an issue or create a pull request.
 
 ## Find me on:
-- [LinkedIn](https://www.linkedin.com/in/martin-gogolowicz)
-- [GitHub](https://github.com/MonsieurZbanowanYY)
+- [LinkedIn](https://www.linkedin.com/in/serge-gnacadja)
+- [GitHub](https://github.com/Gnac)
